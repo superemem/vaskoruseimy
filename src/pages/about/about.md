@@ -1,10 +1,11 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
+name: "Vasko Ruseimy"
+designation: "Pasangan - Mahyeldi | No. Urut 1"
 location: Los Angeles, CA 90001
-pronouns: "he/him/el"
 website: "http://tafutza.hn/kos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Vasko Ruseimy, S.T., gelar Sutan Nagari Sati (lahir 13 Juli 1986), adalah seorang pengusaha, politikus, dan YouTuber Indonesia yang dikenal dengan nama 'Macan Idealis'.<br><br>Saat ini, ia menjabat sebagai Ketua DPP Partai Gerindra dan Ketua BPP Himpunan Pengusaha Muda Indonesia (HIPMI). Vasko berasal dari Minangkabau dengan suku Sikumbang.<br><br>
+
+Vasko Ruseimy adalah seorang pengusaha dan investor yang dikenal dengan visi besarnya dalam mendorong pertumbuhan dan inovasi di berbagai sektor bisnis.
