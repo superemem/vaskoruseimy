@@ -1,9 +1,9 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Sekolah Dasar
+location: Jakarta, Indonesia
+url: https://id.wikipedia.org/wiki/Vasko_Ruseimy
+institute: SD Perwira
+date: 1992-1998
 tags:
   [
     "Criminal Justice",
@@ -13,3 +13,7 @@ tags:
     "Court System",
   ]
 ---
+
+### SD Perwira
+
+Vasko Ruseimy menghabiskan waktu masa kecilnya di SD Perwira, Jakarta dan lulus pada tahun 1998.

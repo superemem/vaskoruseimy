@@ -20,7 +20,7 @@ const PDF = "/cv-20240219.pdf";
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Rekam Jejak"} icon={"carbon:construction"}>
     {
       works.map((item) => {
         return (
@@ -28,7 +28,6 @@ const PDF = "/cv-20240219.pdf";
             title={item.frontmatter.title}
             timeframe={item.frontmatter.date}
             description={item.compiledContent()}
-            tags={item.frontmatter.tags}
             url={item.frontmatter.url}
             url_name={item.frontmatter.org}
             location={item.frontmatter.location}
@@ -38,15 +37,15 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Studies"} icon={"carbon:education"}>
+  <AccordionLayout title={"Pendidikan"} icon={"carbon:education"}>
     {
       studies.map((item) => {
         return (
           <Card
             title={item.frontmatter.title}
             timeframe={item.frontmatter.date}
+            description={item.compiledContent()}
             location={item.frontmatter.location}
-            tags={item.frontmatter.tags}
             url={item.url}
             url_name={item.frontmatter.institute}
           />
@@ -55,7 +54,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
+  <AccordionLayout title={"Harta Kekayaan"} icon={"carbon:tools"}>
     {
       projects.map((item) => {
         return (
